@@ -1,5 +1,5 @@
 # ¡HOLA, SOY JULIAN MEDINA!
-## Tengo 28 años y soy estudiante de programacion, actualmente me encuentro estudiando en la universidad tecnologica nacional.
+## Tengo 28 años y soy estudiante de programacion, actualmente me encuentro estudiando en GoCode - Tecnicatura en Desarrollo Web Full Stack.
 Ademas, estoy haciendo la diplomatura en **ciencia de datos e inteligencia artificial** en la Universidad Nacional de San Martin, y en Codo a Codo el curso de **Fullstack en Python**.
 
 # BOOTCAMP FULLSTACK
