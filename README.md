@@ -2,15 +2,6 @@
 ## Tengo 28 años y soy estudiante de programacion, actualmente me encuentro estudiando en GoCode - Tecnicatura en Desarrollo Web Full Stack.
 Ademas, estoy haciendo la diplomatura en **ciencia de datos e inteligencia artificial** en la Universidad Nacional de San Martin, y en Codo a Codo el curso de **Fullstack en Python**.
 
-# BOOTCAMP FULLSTACK
-## Semana 1 🎆
-**Configuración del ambiente de desarrollo (Prework)**
-
-1. Instalando Ubuntu en Windows 10/11
-2. configuración de las llaves SSH
-3. Instalación de Node.js y Yarn
-
-
 ### Mis comandos mas usados
 
 | Commands |                              Description                               |
